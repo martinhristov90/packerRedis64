@@ -51,9 +51,9 @@ mount -o loop $VBOX_ISO /mnt
 yes|sh /mnt/VBoxLinuxAdditions.run
 umount /mnt
 
-# Installing Nginx webserver
+# Installing Redis
 
-apt-get install -y nginx
+apt-get install -y redis-server
 
 #Cleanup VirtualBox
 rm $VBOX_ISO
