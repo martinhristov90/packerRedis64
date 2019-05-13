@@ -32,6 +32,3 @@ This repository's sole purpose is to demonstrate how to built a Vagrant box with
 - Type `vagrant up`.
 
 ### NB : Make sure you execute the abovementioned commands in `packerRedis64` directory.
-
-
-# Now you should have a running Vagrantbox with redis64 installed. Next step is test that redis64 is running.
