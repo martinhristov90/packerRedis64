@@ -10,8 +10,6 @@ This repository's sole purpose is to demonstrate how to built a Vagrant box with
 - Vagrant
 - VirtualBox
 - Redis64
-- KitchenCI
-- InSpec
 
 # How to install the needed technologies :
 
